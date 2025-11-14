@@ -18,12 +18,12 @@ function Header() {
                     <a href="#reviews">Reviews</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#footer">Contact</a>
                 </li>
             </ul>
             <div className="account">
-                <a href="#">Login</a>
-                <a href="#" className='btn-join'>
+                <a href="#join-us">Login</a>
+                <a href="#join-us" className='btn-join'>
                     Join Us
                     <FaArrowRight/>
                 </a>
